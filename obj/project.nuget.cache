@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "8m1fuAa4IUG8LE4aRxQcDIYNaqCrqeFpJO194WUCRDx/KqJkca2T5PlhtZZCznNG/85IaPpKl+hcTCgv+Pr6qQ==",
+  "success": true,
+  "projectFilePath": "D:\\C# for job\\store sells chocolates\\store sells chocolates\\store sells chocolates.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\MSY\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}
